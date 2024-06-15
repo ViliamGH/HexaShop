@@ -1,0 +1,17 @@
+/* notification */
+.notify-style {
+  padding: 5px 15px 5px 15px;
+}
+
+.notify-style .notify-bold {
+  font-weight: bold;
+}
+.notify-style .notify-bolds {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* porfile */
+.profile-bold {
+  font-weight: bold;
+}

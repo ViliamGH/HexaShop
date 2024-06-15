@@ -1,0 +1,5 @@
+#promo{
+    display: flex !important;
+    flex-direction: column;
+    align-self: flex-end !important;
+}
